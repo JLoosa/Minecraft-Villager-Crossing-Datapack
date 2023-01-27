@@ -1,0 +1,7 @@
+
+Villagers Crossing IDs are metadata tags with key 'vcid'. The value is an integer.
+
+4: Tier 6 ProjectE Essence
+    Item:   minecraft:firework_star
+    Nbt:    {Item:{tag:{vcid:4}},display:{Name:'{"text":"Alchemical Essence","color":"gold"}',Lore:['{"text":"An mythical alchemical agent."}']}}
+    Nbt-JS: {Item:{tag:{vcid:4}},display:{Name:'{\"text\":\"Alchemical Essence\",\"color\":\"gold\"}',Lore:['{\"text\":\"An mythical alchemical agent.\"}']}}

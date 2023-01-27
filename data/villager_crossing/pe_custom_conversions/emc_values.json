@@ -26,7 +26,9 @@
             "projecte:mobius_fuel": 18464,
             "projecte:aeternalis_fuel": 73760,
             "projecte:dark_matter": 3245312,
-            "projecte:red_matter": 25962592
+            "projecte:red_matter": 25962592,
+
+            "minecraft:firework_star{Item:{tag:{vcid:4}},display:{Name:'{\"text\":\"Alchemical Essence\",\"color\":\"gold\"}',Lore:['{\"text\":\"An mythical alchemical agent.\"}']}}": 626247168
         }
     }
 }

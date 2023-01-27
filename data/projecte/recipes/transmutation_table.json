@@ -1,1 +1,24 @@
-{"type":"minecraft:crafting_shaped","key":{"O":{"tag":"forge:obsidian"},"P":{"item":"projecte:philosophers_stone"},"S":{"tag":"forge:stone"}},"pattern":["OSO","SPS","OSO"],"result":{"item":"projecte:transmutation_table"}}
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "O": {
+            "tag": "forge:obsidian"
+        },
+        "P": {
+            "type": "forge:partial_nbt",
+            "item": "minecraft:firework_star",
+            "nbt": "{Item:{tag:{vcid:4}},display:{Name:'{\"text\":\"Alchemical Essence\",\"color\":\"gold\"}',Lore:['{\"text\":\"An mythical alchemical agent.\"}']}}"
+        },
+        "S": {
+            "tag": "forge:stone"
+        }
+    },
+    "pattern": [
+        "OSO",
+        "SPS",
+        "OSO"
+    ],
+    "result": {
+        "item": "projecte:transmutation_table"
+    }
+}

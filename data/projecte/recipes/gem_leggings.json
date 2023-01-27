@@ -21,8 +21,8 @@
                     },
                     {
                         "type": "forge:partial_nbt",
-                        "item": "projecte:klein_star_omega",
-                        "nbt": "{StoredEMC:51200000L}"
+                        "item": "minecraft:firework_star",
+                        "nbt": "{Item:{tag:{vcid:4}},display:{Name:'{\"text\":\"Alchemical Essence\",\"color\":\"gold\"}',Lore:['{\"text\":\"An mythical alchemical agent.\"}']}}"
                     }
                 ],
                 "result": {
