@@ -11,6 +11,9 @@
         "C": {
             "item": "projecte:high_covalence_dust"
         },
+        "N": {
+            "item": "minecraft:nether_star"
+        },
         "R": {
             "tag": "forge:dusts/redstone"
         }
@@ -18,7 +21,7 @@
     "pattern": [
         "GRC",
         "RDR",
-        "CRG"
+        "CNG"
     ],
     "result": {
         "item": "projecte:philosophers_stone"
