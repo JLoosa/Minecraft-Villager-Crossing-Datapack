@@ -10,6 +10,9 @@
         "C": {
             "item": "minecraft:fire_charge"
         },
+        "D": {
+            "item": "projecte:high_covalence_dust"
+        },
         "P": {
             "type": "forge:partial_nbt",
             "item": "minecraft:potion",
@@ -27,9 +30,9 @@
     },
     "pattern": [
         " FCNPNCF ",
-        " FC S CF ",
+        " FCDSDCF ",
         " FCFIFCF ",
-        " FC   CF ",
+        " FCDDDCF ",
         " FCUFUCF "
     ],
     "result": {
