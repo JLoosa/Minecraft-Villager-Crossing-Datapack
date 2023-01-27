@@ -1,6 +1,7 @@
 
 Tierless:
     covalence_repair
+    philo_stone_smelting
 
 Tier 1:
     alchemical_coal_block
@@ -121,7 +122,6 @@ Tier 6:
     gem_helmet
     gem_leggings
     klein_star_omega
-    philo_stone_smelting
     tome_alt
     tome
     transmutation_table
