@@ -105,9 +105,7 @@ Tier 5:
     rm_hammer
     rm_helmet
     rm_hoe
-    rm_katar
     rm_leggings
-    rm_morning_star
     rm_pick
     rm_shears
     rm_shovel
@@ -122,6 +120,8 @@ Tier 6:
     gem_chestplate
     gem_helmet
     gem_leggings
+    rm_katar
+    rm_morning_star
     tome_alt
     tome
     transmutation_table
