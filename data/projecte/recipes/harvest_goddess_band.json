@@ -1,23 +1,32 @@
 {
     "type": "minecraft:crafting_shaped",
     "key": {
-        "D": {
+        "G": {
+            "item": "farmingforblockheads:green_fertilizer"
+        },
+        "Y": {
+            "item": "farmingforblockheads:yellow_fertilizer"
+        },
+        "R": {
+            "item": "farmingforblockheads:red_fertilizer"
+        },
+        "B": {
+            "item": "minecraft:bone_block"
+        },
+        "C": {
             "item": "projecte:high_covalence_dust"
         },
-        "F": {
-            "tag": "minecraft:flowers"
+        "S": {
+            "item": "projecte:klein_star_ein"
         },
         "I": {
             "item": "projecte:iron_band"
-        },
-        "S": {
-            "tag": "minecraft:saplings"
         }
     },
     "pattern": [
-        "SFS",
-        "DID",
-        "SFS"
+        "RYG",
+        "BIB",
+        "CSC"
     ],
     "result": {
         "item": "projecte:harvest_goddess_band"
