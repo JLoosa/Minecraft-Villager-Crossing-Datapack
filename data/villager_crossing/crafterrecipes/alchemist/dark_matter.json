@@ -1,0 +1,23 @@
+{
+  "type": "recipe",
+  "crafter": "alchemist_crafting",
+  "inputs": [
+      {
+          "item": "minecraft:diamond_block",
+          "count": 4
+      },
+      {
+          "item": "projecte:aeternalis_fuel",
+          "count": 4
+      },
+      {
+          "item": "minecraft:black_dye",
+          "count": 12
+      }
+  ],
+  "result": "projecte:dark_matter",
+  "count": 1,
+  "intermediate": "minecraft:air",
+  "research-id": "villager_crossing:equivalent_exchange/ee_3",
+  "min-building-level": 5
+}
