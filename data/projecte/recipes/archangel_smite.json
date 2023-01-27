@@ -10,14 +10,17 @@
         "I": {
             "item": "projecte:iron_band"
         },
+        "S": {
+            "item": "projecte:klein_star_ein"
+        },
         "M": {
             "item": "projecte:high_covalence_dust"
         }
     },
     "pattern": [
-        "BFB",
+        "BBB",
         "MIM",
-        "BFB"
+        "FSF"
     ],
     "result": {
         "item": "projecte:archangel_smite"
