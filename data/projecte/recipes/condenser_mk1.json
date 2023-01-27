@@ -5,10 +5,7 @@
             "item": "projecte:alchemical_chest"
         },
         "D": {
-            "tag": "forge:gems/diamond"
-        },
-        "M": {
-            "tag": "projecte:dark_matter"
+            "item": "projecte:dark_matter"
         },
         "O": {
             "tag": "forge:obsidian"
