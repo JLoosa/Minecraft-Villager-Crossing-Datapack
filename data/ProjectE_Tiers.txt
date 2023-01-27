@@ -91,6 +91,7 @@ Tier 5:
     collector_mk3
     condenser_mk2
     gem_of_eternal_density
+    klein_star_omega
     klein_star_sphere
     life_stone
     red_matter_alt
@@ -121,7 +122,6 @@ Tier 6:
     gem_chestplate
     gem_helmet
     gem_leggings
-    klein_star_omega
     tome_alt
     tome
     transmutation_table
