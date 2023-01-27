@@ -1,0 +1,16 @@
+{
+    "name": "EE Novice",
+    "subtitle": "Entering into the world of Equivalent Exchange",
+    "branch": "villager_crossing:equivalent_exchange",
+    "requirements": [
+        {
+            "building": "townhall",
+            "level": 1
+        },
+        {
+            "item": "projecte:alchemical_coal_block",
+            "quantity": 1
+        }
+    ],
+    "researchLevel": 1
+}

@@ -1,0 +1,17 @@
+{
+    "name": "EE Expert",
+    "subtitle": "Entering into the world of Equivalent Exchange",
+    "branch": "villager_crossing:equivalent_exchange",
+    "requirements": [
+        {
+            "building": "townhall",
+            "level": 5
+        },
+        {
+            "item": "projecte:red_matter",
+            "quantity": 1
+        }
+    ],
+    "parentResearch": "villager_crossing:equivalent_exchange/ee_4",
+    "researchLevel": 5
+}

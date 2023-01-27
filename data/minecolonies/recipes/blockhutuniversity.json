@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "minecraft:book"
+    },
+    "C": {
+      "tag": "minecraft:candles"
+    },
+    "M": {
+      "item": "createdeco:copper_coinstack"
+    },
+    "T": {
+      "item": "structurize:sceptergold"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    "BTC",
+    "PPP",
+    "PMP"
+  ],
+  "result": {
+    "item": "minecolonies:blockhutuniversity"
+  }
+}

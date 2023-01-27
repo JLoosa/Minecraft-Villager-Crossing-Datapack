@@ -1,0 +1,17 @@
+{
+    "name": "EE Professional",
+    "subtitle": "Entering into the world of Equivalent Exchange",
+    "branch": "villager_crossing:equivalent_exchange",
+    "requirements": [
+        {
+            "building": "townhall",
+            "level": 4
+        },
+        {
+            "item": "projecte:dark_matter",
+            "quantity": 1
+        }
+    ],
+    "parentResearch": "villager_crossing:equivalent_exchange/ee_3",
+    "researchLevel": 4
+}

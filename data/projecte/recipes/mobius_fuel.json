@@ -1,0 +1,27 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "B": {
+        "item": "projecte:alchemical_coal_block"
+      },
+      "O": {
+        "item": "projecte:mobius_fuel"
+      },
+      "C": {
+        "item": "minecraft:yellow_dye"
+      },
+      "R": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "pattern": [
+      "RBCBR",
+      "C O C",
+      "RBCBR"
+    ],
+    "result": {
+      "count": 2,
+      "item": "projecte:mobius_fuel"
+    }
+  }

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "B": {
+            "item": "minecraft:snowball"
+        },
+        "I": {
+            "item": "projecte:iron_band"
+        },
+        "M": {
+            "item": "projecte:high_covalence_dust"
+        },
+        "S": {
+            "item": "minecraft:snow_block"
+        }
+    },
+    "pattern": [
+        "SBS",
+        "MIM",
+        "SBS"
+    ],
+    "result": {
+        "item": "projecte:zero_ring"
+    }
+}

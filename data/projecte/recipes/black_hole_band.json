@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "D": {
+            "item": "sophisticatedbackpacks:magnet_upgrade"
+        },
+        "I": {
+            "item": "projecte:iron_band"
+        },
+        "S": {
+            "item": "projecte:low_covalence_dust"
+        }
+    },
+    "pattern": [
+        "SSS",
+        "DID",
+        "SSS"
+    ],
+    "result": {
+        "item": "projecte:black_hole_band"
+    }
+}

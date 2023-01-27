@@ -1,0 +1,19 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+        "F": {
+            "item": "projecte:alchemical_coal"
+        }
+    },
+    "pattern": [
+        "  F  ",
+        "  F  ",
+        "FFFFF",
+        "  F  ",
+        "  F  "
+    ],
+    "result": {
+        "item": "projecte:alchemical_coal_block"
+    }
+}

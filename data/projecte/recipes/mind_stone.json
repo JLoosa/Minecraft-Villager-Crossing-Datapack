@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "B": {
+            "item": "minecraft:book"
+        },
+        "D": {
+            "item": "projecte:high_covalence_dust"
+        },
+        "L": {
+            "item": "minecraft:lapis_block"
+        },
+        "R": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "pattern": [
+        "BDB",
+        "RLR",
+        "BDB"
+    ],
+    "result": {
+        "item": "projecte:mind_stone"
+    }
+}

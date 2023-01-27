@@ -1,0 +1,17 @@
+{
+    "type": "recipe",
+    "crafter": "enchanter_custom",
+    "inputs": [
+        {
+            "item": "minecraft:diamond"
+        },
+        {
+            "item": "minecraft:coal"
+        }
+    ],
+    "result": "projecte:high_covalence_dust",
+    "count": 40,
+    "intermediate": "minecraft:air",
+    "research-id": "villager_crossing:equivalent_exchange/ee_3",
+    "min-building-level": 3
+}

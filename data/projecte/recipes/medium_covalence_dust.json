@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "forge:ingots/iron"
+        },
+        {
+            "item": "projecte:medium_covalence_dust"
+        },
+        {
+            "tag": "forge:dusts/redstone"
+        }
+    ],
+    "result": {
+        "count": 40,
+        "item": "projecte:medium_covalence_dust"
+    }
+}

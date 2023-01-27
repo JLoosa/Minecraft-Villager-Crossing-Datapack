@@ -1,0 +1,17 @@
+{
+    "name": "EE Experienced",
+    "subtitle": "Entering into the world of Equivalent Exchange",
+    "branch": "villager_crossing:equivalent_exchange",
+    "requirements": [
+        {
+            "building": "townhall",
+            "level": 3
+        },
+        {
+            "item": "projecte:aeternalis_fuel_block",
+            "quantity": 1
+        }
+    ],
+    "parentResearch": "villager_crossing:equivalent_exchange/ee_2",
+    "researchLevel": 3
+}

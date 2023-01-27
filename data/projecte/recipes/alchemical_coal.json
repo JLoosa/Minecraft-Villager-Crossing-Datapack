@@ -1,0 +1,27 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "B": {
+        "item": "minecraft:coal_block"
+      },
+      "O": {
+        "item": "projecte:alchemical_coal"
+      },
+      "C": {
+        "item": "minecraft:red_dye"
+      },
+      "R": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "pattern": [
+      " BCB ",
+      "RCOCR",
+      " BCB "
+    ],
+    "result": {
+      "count": 2,
+      "item": "projecte:alchemical_coal"
+    }
+  }

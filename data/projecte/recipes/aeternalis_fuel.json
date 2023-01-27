@@ -1,0 +1,29 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+      "B": {
+        "item": "projecte:mobius_fuel_block"
+      },
+      "O": {
+        "item": "projecte:aeternalis_fuel"
+      },
+      "C": {
+        "item": "minecraft:light_gray_dye"
+      },
+      "R": {
+        "item": "minecraft:experience_bottle"
+      }
+    },
+    "pattern": [
+      " R R ",
+      "RBCBR",
+      " COC ",
+      "RBCBR",
+      " R R "
+    ],
+    "result": {
+      "count": 2,
+      "item": "projecte:aeternalis_fuel"
+    }
+  }

@@ -1,0 +1,16 @@
+{
+    "name": "EE Amateur",
+    "branch": "villager_crossing:equivalent_exchange",
+    "requirements": [
+        {
+            "building": "townhall",
+            "level": 2
+        },
+        {
+            "item": "projecte:mobius_fuel_block",
+            "quantity": 1
+        }
+    ],
+    "parentResearch": "villager_crossing:equivalent_exchange/ee_1",
+    "researchLevel": 2
+}

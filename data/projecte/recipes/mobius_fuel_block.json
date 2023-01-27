@@ -1,0 +1,19 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+        "F": {
+            "item": "projecte:mobius_fuel"
+        }
+    },
+    "pattern": [
+        "  F  ",
+        "  F  ",
+        "FFFFF",
+        "  F  ",
+        "  F  "
+    ],
+    "result": {
+        "item": "projecte:mobius_fuel_block"
+    }
+}

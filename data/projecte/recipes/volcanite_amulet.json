@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "D": {
+            "item": "projecte:high_covalence_dust"
+        },
+        "L": {
+            "item": "minecraft:lava_bucket"
+        }
+    },
+    "pattern": [
+        "LLL",
+        "DDD",
+        "LLL"
+    ],
+    "result": {
+        "item": "projecte:volcanite_amulet"
+    }
+}

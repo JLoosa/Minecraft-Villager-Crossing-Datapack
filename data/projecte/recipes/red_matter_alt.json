@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "acceptMirrored": true,
+  "key": {
+    "B": {
+      "item": "projecte:dark_matter"
+    },
+    "C": {
+      "item": "minecraft:red_dye"
+    },
+    "D": {
+      "item": "minecraft:experience_bottle"
+    }
+  },
+  "pattern": [
+    "DCCCD",
+    "BCBCB",
+    "BCBCB",
+    "BCBCB",
+    "DCCCD"
+  ],
+  "result": {
+    "count": 1,
+    "item": "projecte:red_matter"
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "comment": "Modified values for items.",
+    "values": {
+        "before": {
+            "create:andesite_alloy": 44,
+            "create:brass_ingot": 192,
+            "create:copper_sheet": 128,
+            "create:brass_sheet": 192,
+            "create:iron_sheet": 256,
+            "create:golden_sheet": 2048,
+            "create:zinc_sheet": 256,
+            "create:netherite_sheet": 57339,
+            "create:andesite_casing": 76,
+            "create:copper_casing": 160,
+            "create:brass_casing": 224,
+            "create:polished_rose_quartz": 768,
+            "create:powdered_obsidian": 12,
+            "create:sturdy_sheet": 44,
+            "create:precision_mechanism": 2122,
+            "create:railway_casing": 268,
+
+            "projecte:low_covalence_dust": 1,
+            "projecte:medium_covalence_dust": 8,
+            "projecte:high_covalence_dust": 213,
+            "projecte:alchemical_coal": 4672,
+            "projecte:mobius_fuel": 18464,
+            "projecte:aeternalis_fuel": 73760,
+            "projecte:dark_matter": 3245312,
+            "projecte:red_matter": 25962592
+        }
+    }
+}

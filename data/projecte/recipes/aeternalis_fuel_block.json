@@ -1,0 +1,19 @@
+{
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
+    "key": {
+        "F": {
+            "item": "projecte:aeternalis_fuel"
+        }
+    },
+    "pattern": [
+        "  F  ",
+        "  F  ",
+        "FFFFF",
+        "  F  ",
+        "  F  "
+    ],
+    "result": {
+        "item": "projecte:aeternalis_fuel_block"
+    }
+}

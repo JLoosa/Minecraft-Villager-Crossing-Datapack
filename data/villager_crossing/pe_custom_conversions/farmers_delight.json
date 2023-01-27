@@ -1,0 +1,23 @@
+{
+    "comment": "EMC Values for Farmer's Delight",
+    "values": {
+        "before": {
+            "farmersdelight:apple_pie_slice": 140,
+            "farmersdelight:bacon": 32,
+            "farmersdelight:cabbage_leaf": 64,
+            "farmersdelight:cake_slice": 14,
+            "farmersdelight:chicken_cuts": 8,
+            "farmersdelight:cod_slice": 8,
+            "farmersdelight:cooked_rice": 64,
+            "farmersdelight:minced_beef": 32,
+            "farmersdelight:mutton_chops": 32,
+            "farmersdelight:onion": 64,
+            "farmersdelight:pumpkin_slice": 36,
+            "farmersdelight:raw_pasta": 24,
+            "farmersdelight:rice": 64,
+            "farmersdelight:salmon_slice": 8,
+            "farmersdelight:tomato_sauce": 128,
+            "farmersdelight:tomato": 64
+        }
+    }
+}

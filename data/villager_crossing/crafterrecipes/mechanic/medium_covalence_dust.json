@@ -1,0 +1,19 @@
+{
+    "type": "recipe",
+    "crafter": "mechanic_crafting",
+    "inputs": [
+        {
+            "item": "minecraft:iron_ingot",
+            "count": 1
+        },
+        {
+            "item": "minecraft:redstone",
+            "count": 1
+        }
+    ],
+    "result": "projecte:medium_covalence_dust",
+    "count": 40,
+    "research-id": "villager_crossing:equivalent_exchange/ee_2",
+    "intermediate": "minecraft:air",
+    "min-building-level": 2
+}

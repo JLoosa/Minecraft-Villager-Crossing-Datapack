@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "key": {
+        "D": {
+            "item" : "minecraft:diamond"
+        },
+        "H": {
+            "item" : "minecraft:heart_of_the_sea"
+        },
+        "W": {
+            "item": "minecraft:water_bucket"
+        },
+        "S": {
+            "item": "projecte:low_covalence_dust"
+        }
+    },
+    "pattern": [
+        "WSW",
+        "DHD",
+        "WSW"
+    ],
+    "result": {
+        "item": "projecte:evertide_amulet"
+    }
+}

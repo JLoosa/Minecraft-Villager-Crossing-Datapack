@@ -1,0 +1,19 @@
+{
+    "type": "recipe",
+    "crafter": "stonemason_crafting",
+    "inputs": [
+        {
+            "item": "minecraft:charcoal",
+            "count": 1
+        },
+        {
+            "item": "minecraft:cobblestone",
+            "count": 8
+        }
+    ],
+    "result": "projecte:low_covalence_dust",
+    "count": 40,
+    "intermediate": "minecraft:air",
+    "research-id": "villager_crossing:equivalent_exchange/ee_1",
+    "min-building-level": 1
+}

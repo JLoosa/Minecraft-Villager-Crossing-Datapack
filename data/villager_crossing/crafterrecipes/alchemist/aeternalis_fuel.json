@@ -1,0 +1,23 @@
+{
+    "type": "recipe",
+    "crafter": "alchemist_crafting",
+    "inputs": [
+        {
+            "item": "projecte:mobius_fuel_block",
+            "count": 4
+        },
+        {
+            "item": "minecraft:light_gray_dye",
+            "count": 2
+        },
+        {
+            "item": "minecraft:experience_bottle",
+            "count": 4
+        }
+    ],
+    "result": "projecte:aeternalis_fuel",
+    "count": 1,
+    "research-id": "villager_crossing:equivalent_exchange/ee_2",
+    "intermediate": "minecraft:air",
+    "min-building-level": 3
+}
