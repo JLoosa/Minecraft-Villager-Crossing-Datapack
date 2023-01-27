@@ -3,22 +3,19 @@
     "acceptMirrored": true,
     "key": {
       "B": {
-        "item": "projecte:alchemical_coal_block"
+        "item": "projecte:alchemical_coal"
       },
       "O": {
         "item": "projecte:mobius_fuel"
-      },
-      "C": {
-        "item": "minecraft:yellow_dye"
       },
       "R": {
         "item": "minecraft:experience_bottle"
       }
     },
     "pattern": [
-      "RBCBR",
-      "C O C",
-      "RBCBR"
+      "RBR",
+      "BOB",
+      "RBR"
     ],
     "result": {
       "count": 2,

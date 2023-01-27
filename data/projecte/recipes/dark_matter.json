@@ -2,16 +2,16 @@
     "type": "create:mechanical_crafting",
     "key": {
       "A": { "item": "projecte:aeternalis_fuel_block" },
-      "C": { "item": "minecraft:black_dye" },
+      "C": { "item": "minecraft:experience_bottle" },
       "M": { "item": "projecte:dark_matter" },
       "D": { "item": "minecraft:diamond_block" }
     },
     "pattern": [
-      " CCC ",
+      "CCCCC",
       "CDADC",
       "CAMAC",
       "CDADC",
-      " CCC "
+      "CCCCC"
     ],
     "result": {
       "count": 2,

@@ -3,16 +3,8 @@
     "crafter": "alchemist_crafting",
     "inputs": [
         {
-            "item": "projecte:alchemical_coal_block",
+            "item": "projecte:alchemical_coal",
             "count": 4
-        },
-        {
-            "item": "minecraft:yellow_dye",
-            "count": 4
-        },
-        {
-            "item": "minecraft:experience_bottle",
-            "count": 2
         }
     ],
     "result": "projecte:mobius_fuel",

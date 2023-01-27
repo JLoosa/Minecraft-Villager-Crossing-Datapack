@@ -24,12 +24,12 @@
             "projecte:medium_covalence_dust": 8,
             "projecte:high_covalence_dust": 13,
             "projecte:alchemical_coal": 4672,
-            "projecte:mobius_fuel": 168256,
-            "projecte:aeternalis_fuel": 6057280,
-            "projecte:dark_matter": 24524224,
-            "projecte:red_matter": 196193984,
+            "projecte:mobius_fuel": 18688,
+            "projecte:aeternalis_fuel": 74752,
+            "projecte:dark_matter": 593920,
+            "projecte:red_matter": 4751360,
 
-            "minecraft:firework_star{Item:{tag:{vcid:4}},display:{Name:'{\"text\":\"Alchemical Essence\",\"color\":\"gold\"}',Lore:['{\"text\":\"An mythical alchemical agent.\"}']}}": 4577045534
+            "minecraft:firework_star{Item:{tag:{vcid:4}},display:{Name:'{\"text\":\"Alchemical Essence\",\"color\":\"gold\"}',Lore:['{\"text\":\"An mythical alchemical agent.\"}']}}": 288702464
         }
     }
 }

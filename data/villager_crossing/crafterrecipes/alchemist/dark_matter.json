@@ -9,10 +9,6 @@
       {
           "item": "projecte:aeternalis_fuel",
           "count": 4
-      },
-      {
-          "item": "minecraft:black_dye",
-          "count": 12
       }
   ],
   "result": "projecte:dark_matter",
