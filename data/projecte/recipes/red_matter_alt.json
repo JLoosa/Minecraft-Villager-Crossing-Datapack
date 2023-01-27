@@ -5,6 +5,9 @@
     "B": {
       "item": "projecte:dark_matter"
     },
+    "R": {
+      "item": "projecte:red_matter"
+    },
     "C": {
       "item": "minecraft:red_dye"
     },
@@ -15,12 +18,12 @@
   "pattern": [
     "DCCCD",
     "BCBCB",
-    "BCBCB",
+    "BCRCB",
     "BCBCB",
     "DCCCD"
   ],
   "result": {
-    "count": 1,
+    "count": 2,
     "item": "projecte:red_matter"
   }
 }
