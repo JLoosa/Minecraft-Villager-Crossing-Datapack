@@ -11,7 +11,7 @@ Tier 1:
     klein_star_ein
     low_covalence_dust
 
-Tier 2:
+Tier 2: Power Item Target EMC of 50K
     black_hole_band
     destruction_catalyst
     divining_rod_2
@@ -22,7 +22,7 @@ Tier 2:
     mobius_fuel
     nova_catalyst
 
-Tier 3:
+Tier 3: Power Item Target EMC of 200K
     aeternalis_fuel_block
     aeternalis_fuel
     alchemical_chest
@@ -60,7 +60,7 @@ Tier 3:
     yellow_alchemical_bag
     zero_ring
 
-Tier 4:
+Tier 4: Power Item Target EMC of 750K
     body_stone
     collector_mk2
     condenser_mk1
@@ -85,7 +85,7 @@ Tier 4:
     mind_stone
     relay_mk2
 
-Tier 5:
+Tier 5: Power Item Target EMC of 2M
     catalytic_lens_alt
     catalytic_lens
     collector_mk3

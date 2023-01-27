@@ -1,23 +1,27 @@
 {
-    "type": "minecraft:crafting_shaped",
+    "type": "create:mechanical_crafting",
+    "acceptMirrored": true,
     "key": {
+        "P": {
+            "item": "minecraft:blue_ice"
+        },
+        "S": {
+            "item": "projecte:klein_star_ein"
+        },
         "B": {
-            "item": "minecraft:snowball"
+            "item": "minecraft:powder_snow_bucket"
         },
         "I": {
             "item": "projecte:iron_band"
         },
-        "M": {
+        "C": {
             "item": "projecte:high_covalence_dust"
-        },
-        "S": {
-            "item": "minecraft:snow_block"
         }
     },
     "pattern": [
-        "SBS",
-        "MIM",
-        "SBS"
+        " PPPPPPP ",
+        "CBBBIBBBC",
+        " PPPSPPP "
     ],
     "result": {
         "item": "projecte:zero_ring"
