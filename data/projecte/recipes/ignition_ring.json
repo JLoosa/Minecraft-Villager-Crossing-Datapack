@@ -1,23 +1,36 @@
 {
-    "type": "minecraft:crafting_shaped",
+    "type": "create:mechanical_crafting",
     "key": {
-        "D": {
-            "item": "projecte:high_covalence_dust"
+        "I": {
+            "item": "projecte:iron_band"
         },
         "F": {
             "item": "minecraft:flint_and_steel"
         },
-        "I": {
-            "item": "projecte:iron_band"
+        "C": {
+            "item": "minecraft:fire_charge"
         },
-        "M": {
-            "item": "projecte:mobius_fuel"
+        "P": {
+            "type": "forge:partial_nbt",
+            "item": "minecraft:potion",
+            "nbt": "{Potion:\"minecraft:long_fire_resistance\"}"
+        },
+        "N": {
+            "item": "minecraft:nether_brick"
+        },
+        "U": {
+            "item": "minecraft:soul_sand"
+        },
+        "S": {
+            "item": "projecte:klein_star_ein"
         }
     },
     "pattern": [
-        "FMF",
-        "DID",
-        "FMF"
+        " FCNPNCF ",
+        " FC S CF ",
+        " FCFIFCF ",
+        " FC   CF ",
+        " FCUFUCF "
     ],
     "result": {
         "item": "projecte:ignition_ring"
