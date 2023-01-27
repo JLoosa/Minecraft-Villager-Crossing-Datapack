@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shaped",
     "key": {
         "D": {
-            "item": "sophisticatedbackpacks:magnet_upgrade"
+            "item": "sophisticatedbackpacks:advanced_magnet_upgrade"
         },
         "I": {
             "item": "projecte:iron_band"
@@ -12,7 +12,7 @@
         }
     },
     "pattern": [
-        "SSS",
+        "SDS",
         "DID",
         "SSS"
     ],
